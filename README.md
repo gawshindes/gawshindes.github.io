@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gawshindes/gawshindes.github.io/blob/main/assets/img/logo.png">
+  <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
 
