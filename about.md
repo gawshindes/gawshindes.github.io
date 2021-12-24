@@ -1,5 +1,6 @@
-![setu](https://github.com/gawshindes/gawshindes.github.io/blob/main/assets/img/logo.png?raw=true)
-### <i class="fas fa-square" aria-hidden="true"></i> setu <i class="fas fa-square" aria-hidden="true"></i>
+<p align="center">
+  <img src="https://github.com/gawshindes/gawshindes.github.io/blob/main/assets/img/logo.png">
+</p>
 
 
 # Why are we doing it
