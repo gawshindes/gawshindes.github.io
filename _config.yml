@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
 title: Setu : Connecting blocks
 description: Connecting blocks
+is_project_page: false
+is_user_page: false
+show_downloads: false
